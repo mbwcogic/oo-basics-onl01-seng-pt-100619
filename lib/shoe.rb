@@ -1,4 +1,4 @@
 class Shoe
   
-  def new()
+  def initialized 
 end
