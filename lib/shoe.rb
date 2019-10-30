@@ -11,3 +11,4 @@ class Shoe
   @condition = new
   puts "the shoe has been repaired"
 end
+end
